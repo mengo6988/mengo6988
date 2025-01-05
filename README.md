@@ -59,9 +59,11 @@ I'm passionate about optimizing my development environment. Currently running:
 
 ## Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=mengo6988&theme=catppuccin-mocha)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mengo6988&theme=catppuccin-mocha)](https://github.com/mengo6988/mengo6988)
 
-[![Mengo's GitHub stats](https://github-readme-stats.vercel.app/api?username=mengo6988&show_icons=true&theme=catppuccin_mocha)](https://github.com/mengo6988/github-readme-stats)
+[![Mengo's GitHub stats](https://github-readme-stats.vercel.app/api?username=mengo6988&show_icons=true&theme=catppuccin_mocha)](https://github.com/mengo6988/mengo6988)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mengo6988&theme=catppuccin_mocha)](https://github.com/mengo6988/mengo6988)
 
 <!--
 **mengo6988/mengo6988** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
