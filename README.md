@@ -1,6 +1,6 @@
 # 👋 Henlo, I'm Meng Hong
 
-A Full-stack developer with a passion for Web3 and developer tooling. Currently studying at 42 Kuala Lumpur while working as a full-stack developer handling frontend, backend, and smart contract development.
+HDFHKSLAHFLDSAFKDAS
 
 ## 🎓 Education
 
